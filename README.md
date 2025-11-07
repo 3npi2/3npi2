@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 ![tamate](https://img.animatetimes.com/news/visual/2018/1517027781_1_10_16dc92eff160b4ad1c7f8676112f181b.jpg)
 <!--
 **3npi2/3npi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
